@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540910421543",
+    "project_id": "findurdev-2ad7d",
+    "storage_bucket": "findurdev-2ad7d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540910421543:android:68c0c3c1e921a1600d7002",
+        "android_client_info": {
+          "package_name": "com.findurdevkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEeWlyPK6g3bUjTwm1Nk541ilTS9rQnYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
