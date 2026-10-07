@@ -43,7 +43,7 @@ Das Repository ist in zwei native Projekte unterteilt:
 ---
 
 ## Dokumentation
+Ausführliche technische Beschreibungen, Architekturübersichten und Handbücher befinden sich direkt in den Dokumentationsordnern der jeweiligen Plattform:
 
-Ausführliche technische Dokumentationen und Architekturübersichten findest du in den jeweiligen Ordnern:
-- [Android PDF-Dokumentation](./android/findurdevkotlin/doc/Android_Dokumentation.pdf)
-- [iOS PDF-Dokumentation](./ios/findurdevswift/findurdevswift/doc/iOS_Dokumentation.pdf)
+- Android: [Detaillierte README](./android/findurdevkotlin/doc/README.md) \| [PDF-Dokumentation](./android/findurdevkotlin/doc/Android_Dokumentation.pdf)
+- iOS: [Detaillierte README](./ios/findurdevswift/findurdevswift/doc/README.md) \| [PDF-Dokumentation](./ios/findurdevswift/findurdevswift/doc/iOS_Dokumentation.pdf)
